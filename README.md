@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoufianTamim &theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SoufianTamim&mode=weekly)](https://git.io/streak-stats)
