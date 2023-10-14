@@ -6,6 +6,8 @@ Hello, I'm Soufian Tamim, a passionate web developer with a love for creating in
 <img align="left" width="47%" src="https://streak-stats.demolab.com?user=SoufianTamim&theme=onedark&hide_border=false&mode=weekly)](https://git.io/streak-stats" alt=""/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SoufianTamim&show_icons=true&theme=onedark" alt=""/>
 
+
+
 ## Skills
 
 I'm a versatile web developer with a strong foundation in both front-end and back-end technologies, including:
