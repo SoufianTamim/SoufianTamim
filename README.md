@@ -2,6 +2,15 @@
 
 Hello, I'm Soufian Tamim, a passionate web developer with a love for creating innovative and user-friendly web applications. I'm dedicated to crafting robust and efficient solutions that help businesses and individuals achieve their online goals.
 
+
+<img align="left" width="47%" src="https://streak-stats.demolab.com?user=SoufianTamim&theme=onedark&hide_border=false&mode=weekly)](https://git.io/streak-stats" alt=""/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SoufianTamim&show_icons=true&theme=onedark" alt=""/>
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="@2"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="@2"/>
+<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt=""/>
+
+
 ## Skills
 
 I'm a versatile web developer with a strong foundation in both front-end and back-end technologies, including:
@@ -56,14 +65,6 @@ Let's build the web together!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align="left" width="47%" src="https://streak-stats.demolab.com?user=SoufianTamim&theme=onedark&hide_border=false&mode=weekly)](https://git.io/streak-stats" alt=""/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SoufianTamim&show_icons=true&theme=onedark" alt=""/>
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="@2"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="@2"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="@2"/>
-<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt=""/>
 
 
  
