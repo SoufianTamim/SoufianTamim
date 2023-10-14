@@ -6,31 +6,36 @@ Hello, I'm Soufian Tamim, a passionate web developer with a love for creating in
 
 ## Skills
 
-- **Front-end Development:** I specialize in building responsive and interactive user interfaces using HTML, CSS, and JavaScript. I have experience with modern frameworks like React and Vue.js.
+I'm a versatile web developer with a strong foundation in both front-end and back-end technologies, including:
 
-- **Back-end Development:** I'm proficient in server-side technologies, including Node.js and Python. I've developed RESTful APIs and worked with databases such as MongoDB and SQL.
+**Front-end Development:**
+- HTML5
+- CSS (including preprocessors like SASS)
+- JavaScript
+- React
+- Vue.js
 
-- **Database Management:** I have experience in designing, optimizing, and maintaining databases, ensuring data security and performance.
+**Back-end Development:**
+- PHP
+- Laravel
+- Node.js
+- Express
 
-- **Version Control:** I use Git for version control, allowing for collaborative development and efficient code management.
+**Database Management:**
+- MySQL
+- REST API design and development
 
-- **Web Design:** I pay attention to the details of user experience (UX) and user interface (UI) design, ensuring visually appealing and intuitive websites.
+**Version Control:**
+- Proficient in Git and regularly use GitHub for version control and collaborative development.
 
-- **Testing and Debugging:** I conduct thorough testing and debugging to produce high-quality and bug-free web applications.
+**Web Design:**
+- Pay attention to UI/UX design principles to create visually appealing and user-friendly websites.
 
-- **Deployment and Hosting:** I have experience deploying web applications on platforms like Heroku, Netlify, and AWS.
+**Testing and Debugging:**
+- Conduct thorough testing and debugging to ensure high-quality, bug-free web applications.
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-- [Project 1](https://github.com/yourusername/project1): A description of project 1.
-
-- [Project 2](https://github.com/yourusername/project2): A description of project 2.
-
-- [Project 3](https://github.com/yourusername/project3): A description of project 3.
-
-## Contact
+**Deployment and Hosting:**
+- Experience deploying web applications on platforms like Heroku, Netlify, and AWS.
 
 Feel free to reach out to me for collaboration, questions, or just to say hello!
 
@@ -40,7 +45,9 @@ Feel free to reach out to me for collaboration, questions, or just to say hello!
 
 Let's build the web together!
 
-<!--
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -50,18 +57,16 @@ Let's build the web together!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-<!-- 
+
 <img align="left" width="47%" src="https://streak-stats.demolab.com?user=SoufianTamim&theme=onedark&hide_border=false&mode=weekly)](https://git.io/streak-stats" alt=""/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SoufianTamim&show_icons=true&theme=onedark" alt=""/>
- -->
-<!-- 
+
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="@2"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="@2"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="@2"/>
 <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt=""/>
 
 
- -->
+ 
