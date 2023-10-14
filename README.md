@@ -38,7 +38,7 @@ I'm a versatile web developer with a strong foundation in both front-end and bac
 Feel free to reach out to me for collaboration, questions, or just to say hello!
 
 - Email: [job@tamimsoufian.com](mailto:job@tamimsoufian.com)
-- LinkedIn: [Soufian Tamim]([https://www.linkedin.com/in/soufiantamim](https://www.linkedin.com/in/soufian-tamim/))
+- LinkedIn: [Soufian Tamim](https://www.linkedin.com/in/soufian-tamim/)
 - Portfolio : [Soufian Tamim](https://www.tamimsoufian.com)
 
 Let's build the web together!
