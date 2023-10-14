@@ -1,7 +1,5 @@
 # About Me - Soufian Tamim
 
-![Soufian Tamim](https://your-profile-image-url.com)
-
 Hello, I'm Soufian Tamim, a passionate web developer with a love for creating innovative and user-friendly web applications. I'm dedicated to crafting robust and efficient solutions that help businesses and individuals achieve their online goals.
 
 ## Skills
@@ -39,9 +37,9 @@ I'm a versatile web developer with a strong foundation in both front-end and bac
 
 Feel free to reach out to me for collaboration, questions, or just to say hello!
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Email: [job@tamimsoufian.com](mailto:job@tamimsoufian.com)
 - LinkedIn: [Soufian Tamim](https://www.linkedin.com/in/soufiantamim)
-- Twitter: [@YourUsername](https://twitter.com/YourUsername)
+- Portfolio : [Soufian Tamim](https://www.tamimsoufian.com)
 
 Let's build the web together!
 
