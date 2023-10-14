@@ -44,7 +44,7 @@ Feel free to reach out to me for collaboration, questions, or just to say hello!
 Let's build the web together!
 
 
-
+<!--
 
 
 - 🔭 I’m currently working on ...
@@ -55,8 +55,7 @@ Let's build the web together!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
+-->
 
 <img align="left" width="47%" src="https://streak-stats.demolab.com?user=SoufianTamim&theme=onedark&hide_border=false&mode=weekly)](https://git.io/streak-stats" alt=""/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SoufianTamim&show_icons=true&theme=onedark" alt=""/>
