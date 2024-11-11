@@ -2,11 +2,11 @@
 <img src="https://your-image-url.com" />
 <h3 align="center">Full Stack Web Developer - PHP, Laravel, React 👨‍💻</h3>
 
-- 🌱 I’m currently focusing on improving my skills in **Docker** and **React**
+- 🌱 I’m currently focusing on improving my skills in **React** and **Laravel**
 
-- 📫 How to reach me: **soufiantamim@example.com**
+- 📫 How to reach me: **soufiantamim@yahoo.com**
 
-- 📄 You can learn more about me by checking out my CV -> <a href="https://your-cv-link.com">CV</a>
+- 📄 You can learn more about me by checking out my CV -> <a href="https://docs.google.com/document/d/1bIrbD5LVQo7KmOEkccCZAIH-OE5XpuaFgxSzGoyNtPQ/edit?usp=sharing">CV</a>
 
 - ⚡ A fun fact about me... I'm always on the lookout for new challenges and ways to grow my skills while collaborating with others.
 
@@ -21,7 +21,7 @@ Hello, I'm Soufian Tamim, a passionate web developer with a love for creating in
 
 ## Skills
 
-I'm a versatile web developer with a strong foundation in both front-end and back-end technologies, including:
+I'm a versatile web developer with a strong foundation in both front-end and back-end technologies, with a focus on **React** and **Laravel**, including:
 
 **Front-end Development:**
 - HTML5
@@ -47,7 +47,7 @@ I'm a versatile web developer with a strong foundation in both front-end and bac
 
 Feel free to reach out to me for collaboration, questions, or just to say hello!
 
-- Email: [soufiantamim@example.com](mailto:soufiantamim@example.com)
+- Email: [soufiantamim@yahoo.com](mailto:soufiantamim@yahoo.com)
 - LinkedIn: [Soufian Tamim](https://www.linkedin.com/in/soufiantamim/)
 - Portfolio: [Portfolio](https://portfolio-soufiantamim.vercel.app)
 
