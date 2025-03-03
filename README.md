@@ -49,6 +49,6 @@ Feel free to reach out to me for collaboration, questions, or just to say hello!
 
 - Email: [soufiantamim@yahoo.com](mailto:soufiantamim@yahoo.com)
 - LinkedIn: [Soufian Tamim](https://www.linkedin.com/in/soufiantamim/)
-- Portfolio: [Portfolio](https://portfolio-soufiantamim.vercel.app)
+- Portfolio: [Portfolio](https://soufian-portfolio.vercel.app/)
 
 Let's build the web together!
