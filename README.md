@@ -47,7 +47,7 @@ I'm a versatile web developer with a strong foundation in both front-end and bac
 
 Feel free to reach out to me for collaboration, questions, or just to say hello!
 
-- Email: [soufiantamim@yahoo.com](mailto:soufiantamim@yahoo.com)
+- Email: [soufiantamim10@gmail.com](mailto:soufiantamim10@gmail.com)
 - LinkedIn: [Soufian Tamim](https://www.linkedin.com/in/soufiantamim/)
 - Portfolio: [Portfolio](https://soufian-portfolio.vercel.app/)
 
