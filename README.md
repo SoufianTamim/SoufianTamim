@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently focusing on improving my skills in **React** and **Laravel**
 
-- 📫 How to reach me: **soufiant@yahoo.com**
+- 📫 How to reach me: **soufiantamim10@gmail.com**
 
 - 📄 You can learn more about me by checking out my CV -> <a href="https://docs.google.com/document/d/1bIrbD5LVQo7KmOEkccCZAIH-OE5XpuaFgxSzGoyNtPQ/edit?usp=sharing">CV</a>
 
